@@ -22,7 +22,7 @@ The model was trained on bee/wasp images and exported for **Arduino** deployment
 ### Steps
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/YOUR-USERNAME/bee-wasp-classifier.git
+   git clone https://github.com/Eya-Ben-Charrada/bee-wasp-classifier.git
    ```
 
 2. Open Arduino IDE → Sketch > Include Library > Add .ZIP Library → select the folder inside firmware/arduino/.
